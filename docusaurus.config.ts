@@ -7,7 +7,7 @@ const config: Config = {
   // 本地开发中间件插件（注册/登录接口，模拟 Cloudflare KV）
   plugins: [require.resolve("./local-api.plugin.js")],
 
-  title: "智能信息社",
+  title: "算法AI社",
   tagline: "你所热爱的，尽在此处",
   favicon: "img/favicon.ico",
 
@@ -60,7 +60,7 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: "智能信息社",
+      title: "算法AI社",
       hideOnScroll: true,
       logo: {
         alt: "Logo",
@@ -137,7 +137,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} 惠州一中智能信息社. Built with Docusaurus. Powered by Aliyun.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 惠州一中算法AI社. Built with Docusaurus. Powered by Aliyun.`,
     },
     prism: {
       theme: prismThemes.github,

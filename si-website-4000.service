@@ -1,0 +1,17 @@
+[Unit]
+Description=SI Website - 4000 Port Copy
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/admin/.openclaw/workspace/si-website-4000
+ExecStart=/usr/bin/node /home/admin/.openclaw/workspace/si-website-4000/server.js 4000
+Restart=always
+RestartSec=3
+Environment=NODE_ENV=production
+# 日志
+StandardOutput=append:/home/admin/.openclaw/workspace/si-website-4000/server-4000.log
+StandardError=append:/home/admin/.openclaw/workspace/si-website-4000/server-4000.log
+
+[Install]
+WantedBy=multi-user.target

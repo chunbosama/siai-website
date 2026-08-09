@@ -30,7 +30,7 @@ function HomepageHeader() {
 
 export default function Home() {
   return (
-    <Layout title={"主页"} description="惠州一中智能信息社">
+    <Layout title={"主页"} description="惠州一中算法AI社">
       <HomepageHeader />
       <main>
         <div className={styles.board}>

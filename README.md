@@ -1,6 +1,6 @@
 # si-website
 
-惠州市第一中学智能信息社官方网站，基于 [Docusaurus](https://docusaurus.io/zh-CN/) + [TypeScript](https://www.typescriptlang.org/zh/) + [React](https://zh-hans.react.dev/)。
+惠州市第一中学算法AI社官方网站，基于 [Docusaurus](https://docusaurus.io/zh-CN/) + [TypeScript](https://www.typescriptlang.org/zh/) + [React](https://zh-hans.react.dev/)。
 
 包含投票、报名、签到、抽奖、Q&A、博客、直播、社团经费展示等功能，并提供完整的**后台管理系统**。
 
