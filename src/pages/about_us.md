@@ -12,7 +12,7 @@ title: 关于
 
 ## 社团运作与活动
 
--1.教授调音，如x stuido；ace studio
--2.教授vibe coding，提示词编程，编程思维等
--3.教授ai的使用用途，ai的底层逻辑等基础知识
+1.教授调音，如x stuido；ace studio<br>
+2.教授vibe coding，提示词编程，编程思维等<br>
+3.教授ai的使用用途，ai的底层逻辑等基础知识
 
