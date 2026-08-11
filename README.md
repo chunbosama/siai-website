@@ -1,4 +1,4 @@
-# si-website
+# siai-website
 
 惠州市第一中学算法AI社官方网站，基于 [Docusaurus](https://docusaurus.io/zh-CN/) + [TypeScript](https://www.typescriptlang.org/zh/) + [React](https://zh-hans.react.dev/)。
 
@@ -220,3 +220,5 @@ systemctl enable --now cf-tproxy  # iptables 透明代理规则
 ---
 
 > 📌 维护提示：修改 API 路由时，请同步更新 `server.js`（生产）与 `local-api.plugin.js`（开发），保证两处接口行为一致。
+
+
